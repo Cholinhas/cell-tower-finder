@@ -6,7 +6,7 @@ import os
 # ==================================================
 # CONFIGURACIÓN - API KEY YA INCLUIDA
 # ==================================================
-API_KEY = "pk.b4527c7083f6b44d8b7e4b94ba88a32e"
+API_KEY = "TU_API_KEY_AQUI"  # <--- OBTÉNLA EN https://opencellid.org
 # ==================================================
 
 def limpiar_pantalla():
